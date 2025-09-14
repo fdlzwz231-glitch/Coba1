@@ -1,0 +1,38 @@
+body{
+   /* background-color: lightblue; */
+    background-image: url(../Gambar/hujan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 420px;
+margin:0;
+padding:0;
+}
+.kotak{
+    width: 150px;
+    height: 250px;
+    border: 2px solid black;
+    background-image: url(../Gambar/orngkay.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: top;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+
+}
+
+blockquote{
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 2px 4px black;
+}
+cite{
+    font-size: 15px;
+    color: yellow;
+    font-weight: bold;
+    font-style: oblique;
+    text-shadow: 2px 2px 4px black;
+}
